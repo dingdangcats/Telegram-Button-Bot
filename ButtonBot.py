@@ -1,7 +1,7 @@
 import requests
 import json
 
-TOKEN = "1276831773:AAE_6QH76sr2L9-OECVmtq25Ek0530gZywI"  # 请替换为您的机器人Token
+TOKEN = "替换这里"  # 请替换为您的机器人Token
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 last_messages = {}  # 用于存储用户的最后一条消息
