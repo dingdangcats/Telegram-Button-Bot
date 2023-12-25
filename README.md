@@ -14,10 +14,10 @@ Telegram 按钮机器人是一个用于 Telegram 平台的简单机器人，旨�
 - **灵活配置:** 可根据需要配置按钮的样式、链接和功能。
 
 ## 安装与使用
-1. 下载主文件`ButtonBot.py`到本地
-2. **修改文件第三行**
-`TOKEN = "替换"  # 请替换为您的机器人Token`
-`TOKEN = "1276831773:AAE_6QH76sr2L9-OECVmtq25Ek6830gZywI"   #以实际的token为准
-如果你不知道什么是token请看 [教程](https://clox.nu/blog/brief-tutorial-on-telegram-bot-i/)
+1. 下载主文件`ButtonBot.py`到本地  <br> <br>
+2. **修改文件第三行** <br>
+`TOKEN = "替换"  # 请替换为您的机器人Token` <br> <br>
+`TOKEN = "1276831773:AAE_6QH76sr2L9-OECVmtq25Ek6830gZywI"   #以实际的token为准` <br> <br>
+如果你不知道什么是token请看 [教程](https://clox.nu/blog/brief-tutorial-on-telegram-bot-i/)  <br> <br>
 3. 双击运行`ButtonBot.py`
 
